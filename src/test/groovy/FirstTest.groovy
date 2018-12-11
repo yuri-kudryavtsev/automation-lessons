@@ -12,6 +12,7 @@ class FirstTest {
     @Test
     void myFirstTest() {
         printHello("Yuri Kudryavtsev")
+        printHello("Daria Dmitrochenko")
         printHello("Ivan Medvedev")
         printHello("Vasya Pupkin")
     }
