@@ -12,10 +12,16 @@ class FirstTest {
     @Test
     void myFirstTest() {
         printHello("Yuri Kudryavtsev")
+        printHello("Kamil Bikineev")
+        printHello("test test")
         printHello("Test User")
         printHello("Daria Dmitrochenko")
         printHello("Ivan Medvedev")
         printHello("Vasya Pupkin")
+        printHello("Пепяка!")
+        printHello("KEk!")
+        printHello("блаблабла")
+        printHello("больше строк")
     }
 
     static printHello(String userName) {
