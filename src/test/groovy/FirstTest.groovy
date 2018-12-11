@@ -21,6 +21,7 @@ class FirstTest {
         printHello("KEk!")
         printHello("блаблабла")
         printHello("pork")
+        printHello("больше строк")
     }
 
     static printHello(String userName) {
