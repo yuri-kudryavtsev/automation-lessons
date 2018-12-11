@@ -16,6 +16,7 @@ class FirstTest {
         printHello("test test")
         printHello("Test User")
         printHello("Daria Dmitrochenko")
+        printHello("Ivan Medvedev")
         printHello("Vasya Pupkin")
         printHello("Пепяка!")
         printHello("KEk!")
