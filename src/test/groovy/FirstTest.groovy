@@ -21,6 +21,7 @@ class FirstTest {
         printHello("Пепяка!")
         printHello("KEk!")
         printHello("блаблабла")
+        printHello("pork")
         printHello("больше строк")
     }
 
