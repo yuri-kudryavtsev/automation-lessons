@@ -13,6 +13,7 @@ class FirstTest {
     void myFirstTest() {
         printHello("Yuri Kudryavtsev")
         printHello("Test User")
+        printHello("Daria Dmitrochenko")
         printHello("Vasya Pupkin")
     }
 
