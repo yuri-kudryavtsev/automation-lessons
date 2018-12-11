@@ -19,6 +19,7 @@ class FirstTest {
         printHello("Vasya Pupkin")
         printHello("Пепяка!")
         printHello("KEk!")
+        printHello("блаблабла")
     }
 
     static printHello(String userName) {
